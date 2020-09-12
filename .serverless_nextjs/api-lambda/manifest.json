@@ -1,0 +1,1 @@
+{"apis":{"dynamic":{"/api/user/:id":{"file":"pages/api/user/[id].js","regex":"^\\/api\\/user(?:\\/([^\\/#\\?]+?))[\\/#\\?]?$"}},"nonDynamic":{"/api/users":"pages/api/users.js"}}}

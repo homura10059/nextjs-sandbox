@@ -1,0 +1,17 @@
+{
+  "name": "8gh9qa-4j5ku2j",
+  "hash": "ms16nCH41eva0H3O5so7Ht8p1T9rJLBd5Pgzd09OGVg=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/homura/.ghq/github.com/o-hayato/next-sandbox/.serverless_nextjs/api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::267428311438:role/8gh9qa-v60am8"
+  },
+  "arn": "arn:aws:lambda:us-east-1:267428311438:function:8gh9qa-4j5ku2j",
+  "region": "us-east-1"
+}
